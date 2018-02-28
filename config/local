@@ -1,4 +1,4 @@
-# Copy this file to local.toml to make changes for a version that git will ignore.
+ Copy this file to local.toml to make changes for a version that git will ignore.
 [redis]
 host = "127.0.0.1"
 port = "6379"
@@ -23,7 +23,7 @@ motd_excluded_subdomains = [ # An array of url subdomains of which the url shoul
 ]
 
 [discord]
-clientid = " 418232384274825216" # Used to generate a link to add the bot to a server
+clientid = "418232384274825216" # Used to generate a link to add the bot to a server
 client_secret = "" # Only required if "web" feature is enabled
 token = "NDE4MjMyMzg0Mjc0ODI1MjE2.DXelEw.BcTcwO0vTrrzfdzG0-7mlqnmoLQ" # Token for your discord bot user
 
