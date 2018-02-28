@@ -25,7 +25,7 @@ motd_excluded_subdomains = [ # An array of url subdomains of which the url shoul
 [discord]
 clientid = "418221917556834305" # Used to generate a link to add the bot to a server
 client_secret = "UUy6Gcpqwb0P-VdRwVvDEPF_4yAa5i_d" # Only required if "web" feature is enabled
-token = "NDE4MjIxOTE3NTU2ODM0MzA1.DXedKQ.SfEakDLhFFKqRH5HLPYJ_wx1M3s" # Token for your discord bot user
+token = "NDE4MjAyMDE4MzgyMDg2MTQ0.DXeNrw.CSQSfW1zgKMh2Cy1Jau4vCs35do" # Token for your discord bot user
 
 # The "web" feature is disabled by default, enabling it adds a webs server which allows users to login and view more detailed reports and configure some options.
 [web]
