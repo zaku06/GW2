@@ -20,7 +20,7 @@ features.forEach(feature => {
 	require('./features/'+feature)(bot);
 });
 
-bot.on("ready", function(NDE5ODg5ODA4NjY4ODg0OTkz.DYOx5A.8lISI9F2Lz98w1e6BISm1OwMJsU) {
+bot.on("ready", function() {
 	console.log('bot ready');
 });
 
